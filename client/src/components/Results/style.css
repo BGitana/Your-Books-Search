@@ -1,0 +1,22 @@
+.img-fluid {
+  flex: 9;
+  /* padding: 1px; */
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.25), 0 8px 8px rgba(0, 0, 0, 0.22);
+  margin: 15px;
+}
+
+.card {
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.card:hover,
+.card:focus,
+.card:hover,
+.card:focus {
+  box-shadow: 0 18px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  flex: 5;
+}
+
+p.card-text {
+  opacity: 80%;
+}
