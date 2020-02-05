@@ -6,7 +6,8 @@
 **Google-Books-Search-App** is a fully-responsive full MERN stack app. It displays books on user searches. Simply provide a search term or set of keywords, click SUBMIT and receive up to 10 books matching your query. For every article which fits the query Google Books API will return it's image, title, author and a brief description as well as a SAVE and VIEW button. Users can save their selection and review or purchase it all later. <br>
 Welcome to [Google-Books-Search-App](https://quiet-reef-21139.herokuapp.com/). Enjoy!<br>
 
-![app](../client/public/images/book-search.gif)
+![app](/client/public/images/book-search.gif)
+
 
 ### Prerequisites
 
